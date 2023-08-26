@@ -1,0 +1,13 @@
+experiment/experiments
+.vscode
+
+# Data
+TEST_*/
+*.sst
+
+# Compiled binaries
+avl_tree_test
+sst_test
+db_test
+buffer_pool_test
+kvpair_test
